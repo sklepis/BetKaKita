@@ -1,0 +1,6 @@
+HTML1. OK. p elementai ne vietoje átraukti.
+HTML2. OK
+HTML3. OK
+HTML4. OK
+HTML5. OK
+PHP1. OK
