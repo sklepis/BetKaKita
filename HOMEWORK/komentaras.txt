@@ -3,4 +3,13 @@ HTML2. OK
 HTML3. OK
 HTML4. OK
 HTML5. OK
+html6. OK
+HTML7. Radio buttons pasiþymi ne vienas o keli. Radio buttons paskirtis tik vienas variantas. Reikia uþdëti vienodà name.
+html8. OK
+html9. ok
+html10. ok
+html11. ok
+html12. ok
 PHP1. OK
+php2. OK
+php3. OK

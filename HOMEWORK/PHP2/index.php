@@ -58,7 +58,7 @@ switch ($monthNumber) {
 
 function translatedWeekDay() {
 
-  $weekDayNo = date("N");
+  $weekDayNo = 7;//date("N");
 
   switch ($weekDayNo) {
 
