@@ -1,0 +1,17 @@
+
+.navi {
+    text-decoration: none;
+    padding: 4px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+}
+
+fieldset {
+    width: 620px;
+    margin-bottom: 3px;
+}
+
+#naviField {
+    height: 50px;
+}
