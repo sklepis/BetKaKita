@@ -1,10 +1,11 @@
 <?php
     $yearOfBirth = 1981;
 
-    echo "<h3> Jūsų gimimo metai yra ".$yearOfBirth.
-    ". Jums dabar arba šiais metais bus ".getAge($yearOfBirth).".</h3>";
+    getAge($yearOfBirth);
 
-    function getAge ($yearOfBirth) {
-        return date("Y") - $yearOfBirth;
+    function getAge($yearOfBirth) {
+        echo
+        "<h3> Jūsų gimimo metai yra ".$yearOfBirth.
+        ". Jums dabar arba šiais metais bus ".(date("Y") - $yearOfBirth).".</h3>";
     }
  ?>
